@@ -18,4 +18,4 @@ En base a los diferentes archivos otorgados sobre las ventas de una empresa, rea
 
 **Creacion de dashboard:** Se realizaron las creaciones de los graficos donde vemos la visualizaciones de la de los datos transformados en informacion importante para la toma de decisiones.
 
-[Dashboard Final](/Dashboard)
++ [Dashboard Final](/Dashboard)
